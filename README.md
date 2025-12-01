@@ -1,3 +1,6 @@
+FOR GRADER::: pdf of my report is included in this folder
+
+
 # Hampr Machine Service
 
 This project is a simulated backend system for managing the state and operations of Hampr washing machines. It includes a simple API handler, a data layer with caching, and clients for interacting with external services.
